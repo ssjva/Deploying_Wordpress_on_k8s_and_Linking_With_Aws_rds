@@ -1,0 +1,1 @@
+# Deploying_Wordpress_on_k8s_and_Linking_With_Aws_rds
